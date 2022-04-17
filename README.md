@@ -1,21 +1,22 @@
 ## Views
-- RawView `v`
-- SimpleView `v`
-- HamburgerView `v`
-- ModelPropertyView `v`
-- ButtonView `v`
-- PromiseButtonsView `v`
+- RawView ✔
+- SimpleView ✔
+- HamburgerView ✔
+- ModelPropertyView ✔
+- ButtonView ✔
+- PromiseButtonsView ✔
 
 ## APIs
-- modalsApi `v`
-- backendApi `x`
+- modalsApi ✔
+- backendApi ❌
 
 ## Objects
-- BackendStore `x`
+- BackendStore ❌
+- EntryPage ❌
 
 ## Utils
-- renderView `v`
-- attachView `v`
-- detachView `v`
-- destroyView `v`
-- buildView `v`
+- renderView ✔
+- attachView ✔
+- detachView ✔
+- destroyView ✔
+- buildView ✔
