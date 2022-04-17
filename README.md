@@ -1,10 +1,16 @@
 ## Views
-- RawView ✔
-- SimpleView ✔
-- HamburgerView ✔
-- ModelPropertyView ✔
-- ButtonView ✔
-- PromiseButtonsView ✔
+- RawView ✔  
+*Its a almost clean Backbone View ready for use in marionette application.*
+- SimpleView ✔  
+*This view dont have UI elements and regions. Actually its just a view with template.*
+- HamburgerView ✔  
+*This view can render children in a hamberger style, child after child*
+- ModelPropertyView ✔   
+*This view is bound to model property and reflects model's propery change*
+- ButtonView ✔  
+*Pretty complex button view with states and defined action behavior*
+- PromiseButtonsView ✔  
+*This view is for settling a promise, has optionaly from one to trhee button, f.e. used in confirm modal.*
 
 ## APIs
 - modalsApi ✔
