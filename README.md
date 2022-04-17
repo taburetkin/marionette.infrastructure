@@ -10,8 +10,8 @@
 - modalsApi `v`
 - backendApi `x`
 
-## Modules
-- backendStore `x`
+## Objects
+- BackendStore `x`
 
 ## Utils
 - renderView `v`
