@@ -1,4 +1,4 @@
-# marionette.inrastructure
+# marionette.infrastructure
 
 This lib is a result of many years working on marionette front-end applications. There are always same things you should implement in every app. So i decided to gather most common things and publish as helper lib.
 
