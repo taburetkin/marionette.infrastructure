@@ -11,7 +11,7 @@ This lib is a result of many years working on marionette front-end applications.
 *This view don't have UI elements and regions. Actually its just a view with template.*
 
 - **HamburgerView** ✔  
-*This view can render children in a hamberger style, child after child.*
+*This view can render children in a hamburger style, child after child.*
 
 - **ModelPropertyView** ✔   
 *This view is bound to model property and reflects model's propery change*
